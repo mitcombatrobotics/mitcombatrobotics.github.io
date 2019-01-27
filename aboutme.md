@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: And our robot friends
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+MIT CRC is a club dedicated to producing [combat robots](https://en.wikipedia.org/wiki/Robot_combat). But more than that, MIT CRC is a place where robot enthusiants can get together to do what they love and learn from each other. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### The Team
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Dude I'm So High Right Now
