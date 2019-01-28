@@ -13,31 +13,31 @@ The Team
 
 Alex Hattori
 ------
-![alt text](/img/aboutus/alex.png "Alex Hattori"){:height="200"} That's right it's this kid.
+![alt text](/img/aboutus/alex.png "Alex Hattori"){:height="200"}|Alex once saw a flower and cried for a couple of hours. He says that it was a pretty tough experience for him and I honestly understand why. What a tough kid.
 
 Mason Massie
 ------
-![alt text](/img/aboutus/mason.png "Mason Massie"){:height="200"} Oh man it's ya boy
+![alt text](/img/aboutus/mason.png "Mason Massie"){:height="200"}|He never sleeps. He just sits and stares at the ceiling for hours while laughing to himself.
 
 Sofia Leon
 ------
-![alt text](/img/aboutus/sofia.png "Sofia Leon"){:height="200"} No way no way no way
+![alt text](/img/aboutus/sofia.png "Sofia Leon"){:height="200"}|Voted best episode of "My strange addiction" 5 times in a row. Her last win was due to her addiction to eating silly string.
 
 Jackson Gray
 ------
-![alt text](/img/aboutus/jackson.png "Jackson Gray"){:height="200"} Man get the heck outta here pls
+![alt text](/img/aboutus/jackson.png "Jackson Gray"){:height="200"}|Has never given a single fuck in his entire life. Once pushed a wall and made it cry.
 
 Jared DiCarlo
 ------
-![alt text](/img/aboutus/jared.png "Jared DiCarlo"){:height="200"} My full name is so long
+![alt text](/img/aboutus/dicarlo.png "Jared DiCarlo"){:height="200"}|My full name is so long
 
 Amy Fang
 ------
-![alt text](/img/aboutus/amy.png "Amy Fang"){:height="200"} ooooooooooooweeeeee
+![alt text](/img/aboutus/amy.png "Amy Fang"){:height="200"}|"Man I sure wish I didn't put this picture on facebook"
 
 Chetan Sharma
 ------
-![alt text](/img/aboutus/chetan.png "Chetan Sharma"){:height="200"} antifa isn't letting me buy guns
+![alt text](/img/aboutus/chetan.png "Chetan Sharma"){:height="200"}|antifa isn't letting me buy guns
 
 Joining Us
 ======
