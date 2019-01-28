@@ -126,6 +126,7 @@
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/css/staticman.css" | prepend: site.baseurl }}" />
+  <link rel="shortcut icon" type="image/png" href="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
   {% endif %}
 
 </head>
