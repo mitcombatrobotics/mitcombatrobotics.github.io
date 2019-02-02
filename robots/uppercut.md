@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Uppercut
-subtitle: 250lb Heavyweight (Built by entire team)
+subtitle: 250lb Heavyweight Robot
 bigimg: "/img/robots/uppercut/header.JPG"
 ---
-This 250lb beheamoth (currently in the making) is scheduled to fight on the official Battlebots show this year. Check our website for future updates!
+This 250lb beheamoth (currently in the making) is scheduled to fight on the official Battlebots show this year. 
 
-![](/img/robots/uppercut/Render1.JPG)
-![](/img/robots/uppercut/Render2.JPG)
-![](/img/robots/uppercut/Render3.JPG)
-![](/img/robots/uppercut/Render4.JPG)
 ![](/img/robots/uppercut/Render5.JPG)
-![](/img/robots/uppercut/Render6.JPG)
-![](/img/robots/uppercut/Render7.JPG)
+
+An aluminum-steel composite frame supports two massive brushless motors that spin a ~50lb fist up to incredible speeds.
+
 ![](/img/robots/uppercut/Render8.JPG)
+
+The hardened front wedge of the robot deflects the attacks of other robots and slides under opponents during head on collisions - leaving them exposed to the main weapon. We predict that more than one robot will end up plastered on the ceiling of the battlebox.
+
 ![](/img/robots/uppercut/Render9.JPG)
+
+Stay tuned to see future updates on the progress of this robot! We'll be posting build logs on both our site and our facebook page.
