@@ -2,7 +2,7 @@
 layout: post
 title:  "Wheels and tiny robots"
 ---
-'Behind every great wheel is a greater hub' - Nobody
+'Behind every great wheel is a greater hub' - Nobody.
 
 We still have pretty good hubs.
 
