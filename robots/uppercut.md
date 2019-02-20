@@ -4,7 +4,7 @@ title: Uppercut
 subtitle: 250lb Heavyweight Robot
 bigimg: "/img/robots/uppercut/header.JPG"
 ---
-This 250lb beheamoth (currently in the making) is built to fight on the official Battlebots show. 
+This 250lb beheamoth (currently in the making) is built to fight on the Battlebots show. 
 
 ![](/img/robots/uppercut/Render5.JPG)
 
