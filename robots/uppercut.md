@@ -10,7 +10,7 @@ This 250lb behemoth fought on the fourth season of Discovery Channel's Battlebot
 
 An aluminum-steel composite frame supports two massive brushless motors that spin a ~50lb fist up to incredible speeds.
 
-![](/img/robots/uppercut/robot2.JPG)
+![](/img/robots/uppercut/robot2.jpg)
 
 The hardened front wedge of the robot deflects the attacks of other robots and slides under opponents during head on collisions - leaving them exposed to the main weapon.
 
