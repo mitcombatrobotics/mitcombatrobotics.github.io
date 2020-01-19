@@ -14,6 +14,4 @@ An aluminum-steel composite frame supports two massive brushless motors that spi
 
 The hardened front wedge of the robot deflects the attacks of other robots and slides under opponents during head on collisions - leaving them exposed to the main weapon.
 
-![](/img/robots/uppercut/Render9.JPG)
-
-Our fights will be airing on this next season of Battlebots. Stay tuned to see how dangerous this machine gets!
+Our robot made it to the final elimination tournament of season 4 with a 4-2 win-loss record! Catch our fights on Discovery to see how they went down.
